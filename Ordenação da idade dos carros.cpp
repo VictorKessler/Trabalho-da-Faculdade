@@ -45,5 +45,5 @@ int main (void){
 			}
 		}
 			
-	printf ("\n\nA placa do carro mais velho é %s e a do mais novo é %s", carro[0].placa, carro[19].placa);
+	printf ("\n\nA placa do carro mais velho Ã© %s e a do mais novo Ã© %s", carro[0].placa, carro[19].placa);
 }
